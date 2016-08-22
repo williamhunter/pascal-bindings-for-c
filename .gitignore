@@ -1,0 +1,24 @@
+# C GNU libs
+*.o
+*.so
+*.a
+
+# Pascal
+*.ppu
+*.res
+
+# LaTeX
+*.toc
+*.log
+*.gz
+*.aux
+*.out
+
+# Other
+*.exe
+*.txt
+
+# Directories
+.vscode
+backup/
+temp/
