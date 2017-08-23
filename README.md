@@ -3,4 +3,4 @@ Examples that shows how to use libraries created in C in Pascal, specifically Fr
 In other words: how to use C libraries from Pascal, or linking to C libraries from Pascal.
 
 ## Documentation
-See the docs folder.
+See the [docs](https://github.com/williamhunter/pascal-bindings-for-c/docs) folder.
